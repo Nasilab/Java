@@ -1,12 +1,6 @@
 //*******************************************************************
     //
-    //   File: Song.java          Assignment No.: 2
-    //
-    //   Author: bmn8         
-    //
-    //   Class: Song
-    // 
-    //   Time spent on this problem: .5hrs
+    //   File: Song.java          
     //   --------------------
     //   
     //   This program prints out a cumulative song. 
