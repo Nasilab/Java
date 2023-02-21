@@ -1,15 +1,9 @@
 
 //***********************************************************************
 //
-//   File: Animation.java        Assignment No.: 4
-//
-//   Author: bmn8            
-//
-//   Class: Animation
-// 
-//   Time spent on this problem: 6 hour
+//   File: Animation.java    
 //   --------------------
-//      This program implements animation for PS 4
+//      This program implements animation 
 //
 //***********************************************************************
 import java.awt.Color;
