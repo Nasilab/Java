@@ -1,12 +1,6 @@
 //*******************************************************************
 //
-//   File: NumberCoolness.java          Assignment No.: 3
-//
-//   Author:bmn8
-//
-//   Class: NumberCoolness
-// 
-//   Time spent on this problem: 3hrs 
+//   File: NumberCoolness.java          
 //   --------------------
 //    This code prints out printNumberCoolness pattern.  
 //
