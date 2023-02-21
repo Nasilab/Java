@@ -1,12 +1,6 @@
 //*******************************************************************
 //
-//   File: WalkMiles.java     Assignment No.: 2
-//
-//   Author: bmn8
-//
-//   Class: WalkMiles
-// 
-//   Time spent on this problem: .3 hrs
+//   File: WalkMiles.java    
 //   --------------------
 //      This program generates variations of the 500 miles song.
 //
