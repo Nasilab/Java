@@ -1,13 +1,7 @@
 
 //*******************************************************************
 //
-//   File: CafeWall.java         Assignment No.: 3
-//
-//   Author: bmn8             
-//
-//   Class: CafeWall
-// 
-//   Time spent on this problem: 6
+//   File: CafeWall.java        
 //   --------------------
 //    This makes the Cafe Wall Illusion
 //
